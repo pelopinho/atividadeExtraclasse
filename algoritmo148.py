@@ -15,12 +15,12 @@ elif(op == 3):
     if(iv == 1):
         print("\nO valor da passagem de ida para a R. Centro-Oeste é R$ 350,00")
     else:
-        print("\nO valor da passagem de ida e volta para a R. Nordeste é R$ 600,00")
+        print("\nO valor da passagem de ida e volta para a R. Centro-Oeste é R$ 600,00")
 elif(op == 4): 
     if(iv == 1):
         print("\nO valor da passagem de ida para a R. Sul é R$ 300,00")
     else:
-        print("\nO valor da passagem de ida e volta para a R. Nordeste é R$ 500,00")
+        print("\nO valor da passagem de ida e volta para a R. Sul é R$ 500,00")
 
 else:
     print("\nOpção inexistente")
